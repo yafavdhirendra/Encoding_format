@@ -5,4 +5,6 @@ def encode_base64(txt):
     return encode_bytes.decode("utf-8")
 
 if __name__ == "__main__":
-    user_imput = input("enter text to encode: ")
+    user_input = input("enter text to encode: ")
+    encoded = encode_base64(user_input)
+    print(f"Encoded text: {encoded}")
