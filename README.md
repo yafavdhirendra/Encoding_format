@@ -18,3 +18,11 @@ Navigate to the src folder and run any file:
 
 ```bash
 python base64_encode.py
+```
+
+## License
+This project is licensed under **MIT License**. See more about [license](/LICENSE)
+
+## Author
+**Dhirendra yadav** | 1st sem student
+Softwarica college of IT and E-commerce
