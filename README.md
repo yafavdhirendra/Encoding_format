@@ -1,6 +1,6 @@
 # Encoding Project
 
-This project demonstrates different types of encoding techniques used in
+This project demonstrates different types of **encoding techniques** used in
 computer systems and cybersecurity.
 
 ## Encoding Types Included
@@ -17,12 +17,14 @@ Encoding is not encryption and does not provide security.
 Navigate to the src folder and run any file:
 
 ```bash
-python base64_encode.py
+# run any file like as :
+python base64_encode.py  # for base64 encoded
 ```
 
 ## License
 This project is licensed under **MIT License**. See more about [license](/LICENSE)
+[file](/file.py)
 
 ## Author
-**Dhirendra yadav** | 1st sem student
-Softwarica college of IT and E-commerce
+- **Dhirendra yadav** | 1st sem student
+- Softwarica college of IT and E-commerce
