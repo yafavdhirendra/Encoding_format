@@ -23,7 +23,6 @@ python base64_encode.py  # for base64 encoded
 
 ## License
 This project is licensed under **MIT License**. See more about [license](/LICENSE)
-[file](/file.py)
 
 ## Author
 - **Dhirendra yadav** | 1st sem student
