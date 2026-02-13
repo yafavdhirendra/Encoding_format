@@ -9,6 +9,7 @@ computer systems and cybersecurity.
 - ASCII to Unicode Conversion
 
 ## Project Structure
+```
 ENCODED/
 │── src/
 │   ├── base64_encode.py
@@ -25,6 +26,7 @@ ENCODED/
 │── requirements.txt
 │── .gitignore
 └──  LICENSE
+```
 ## How to Run
 Navigate to the src folder and run any file:
 
