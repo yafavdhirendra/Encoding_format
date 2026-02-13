@@ -1,0 +1,17 @@
+# base64_encoding
+enter text to encode: sun
+
+# base64_decoded
+Enter Base64 text to decode: c3Vu
+
+# url_encode
+Enter text to URL encode: hello world
+
+# url_decode
+Enter URL encoded text: hello%20world
+
+# ascii_unicode
+1: Text to ASCII
+2: ASCII to Text
+Enter your choice (1 or 2): 1
+Enter text: dhire
