@@ -40,6 +40,17 @@ Encoding is used to safely transfer data across different systems,
 handle special characters, and ensure data compatibility.
 Encoding is not encryption and does not provide security.
 
+## Features
+
+- Convert text → ASCII numbers
+
+- Convert ASCII numbers → text
+
+- Base64 encode & decode
+
+- URL encode & decode
+
+- Simple and easy to use
 
 
 ## License
