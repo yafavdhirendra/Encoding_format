@@ -56,6 +56,12 @@ Encoding is not encryption and does not provide security.
 
 - Simple and easy to use
 
+## Requirements
+
+- Python 3.x
+
+- No external libraries required
+
 
 ## License
 This project is licensed under **MIT License**. See more about [license](/LICENSE)
