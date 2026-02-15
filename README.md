@@ -31,6 +31,10 @@ ENCODED/
 Navigate to the src folder and run any file:
 
 ```bash
+# Clone the repository
+git clone https://github.com/yafavdhirendra/Encoding_format
+cd ENCODED
+
 # run any file like as :
 python base64_encode.py  # for base64 encoded
 
@@ -58,4 +62,4 @@ This project is licensed under **MIT License**. See more about [license](/LICENS
 
 ## Author
 - **Dhirendra yadav** | 1st sem student
-- Softwarica college of IT and E-commerce
+- Softwarica college of IT and E-commerce (NEPAL)
