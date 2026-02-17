@@ -32,7 +32,7 @@ Navigate to the src folder and run any file:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yafavdhirendra/Encoding_format
+git clone https://github.com/yafavdhirendra/Encoding_format.git
 cd ENCODED
 
 # run any file like as :
